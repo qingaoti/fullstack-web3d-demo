@@ -31,6 +31,10 @@ eggJs + mongoose + swagger
 ![image](https://raw.githubusercontent.com/qingaoti/qingaoti/main/image/jiaren1.png)
 ![image](https://raw.githubusercontent.com/qingaoti/qingaoti/main/image/jiaren2.png)
 
+3D演示2
+![image](https://raw.githubusercontent.com/qingaoti/qingaoti/main/image/moxing1.png)
+![image](https://raw.githubusercontent.com/qingaoti/qingaoti/main/image/moxing2.png)
+
 ```bash
 $ 具体见各个项目的README.md
 ```

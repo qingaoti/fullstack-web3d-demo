@@ -43,6 +43,14 @@ const Home = (props) => {
                             // console.log("```p",p);
                             navigate(p.key);
                         }
+                    },
+                    {
+                        path:'/home/lingo3dDemo2',
+                        label:'lingo3dDemo2',
+                        onClick: (p)=>{
+                            // console.log("```p",p);
+                            navigate(p.key);
+                        }
                     }
                 ]
             },
